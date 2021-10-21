@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrewhuang1012
 - 👀 I’m interested in machine learning and social network analytics.
-- 🌱 I’m currently learning graph neural networks applied on graph mining.
+- 🌱 I’m currently learning graph neural networks applied to graph mining.
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
